@@ -3,6 +3,7 @@ RENCANA KONTEN NAFISA
 * mykonos
 * disney
 ^ ariel
+^ belle
 - rate make up
 - battle make up
 ^ mua
